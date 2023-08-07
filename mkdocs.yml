@@ -1,4 +1,5 @@
 site_name: Drayage Quoter
+docs_dir: source
 theme:
   name: material
   features:
