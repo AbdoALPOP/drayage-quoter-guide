@@ -22,3 +22,5 @@ theme:
   favicon: assets/logo.png
 extra:
   homepage: https://www.drayagequoter.com/
+extra_css:
+  - 'custom.css'
