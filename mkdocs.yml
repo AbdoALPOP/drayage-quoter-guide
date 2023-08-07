@@ -1,5 +1,7 @@
 site_name: Drayage Quoter
 docs_dir: source
+nav:
+    - Home: sign-up.md
 theme:
   name: material
   features:
