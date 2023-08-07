@@ -1,5 +1,0 @@
-/* Replace "300px" with the desired width and height for your images */
-img {
-    width: 300px;
-    height: auto; /* This ensures the aspect ratio is maintained */
-}
